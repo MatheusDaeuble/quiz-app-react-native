@@ -1,0 +1,64 @@
+{
+  "quiz":[
+    {
+      "id": 1,
+      "questions":[
+        {
+          "question": "Quem é o melhor professor?",
+          "answers": ["Tite", "Diego Fernandes", "Professor Xavier", "Professor Raimundo"],
+          "correctAnswerIndex":0
+        },
+        {
+          "question": "Qual a empresa vai dominar o mundo?",
+          "answers": ["Skynet", "Google", "Facebook", "RocketSeat"],
+          "correctAnswerIndex":3
+        },
+        {
+          "question": "Qual é o melhor super-heroi?",
+          "answers": ["Homem de Ferro", "Hulk", "Chapolin Colorado", "Thor"],
+          "correctAnswerIndex":2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questions":[
+        {
+          "question": "Qual é a melhor comida?",
+          "answers": ["Pizza", "Sushi", "Hamburguer", "Habbibs"],
+          "correctAnswerIndex":0
+        },
+        {
+          "question": "Qual foi a frase mais falado do curso GoNative?",
+          "answers": ["Fazer Cafê", "Estudar o GoNative"],
+          "correctAnswerIndex":0
+        },
+        {
+          "question": "Qual o melhor filme?",
+          "answers": ["Matrix", "Harry Potter", "Senhor dos Anéis" , "Clube da Luta"],
+          "correctAnswerIndex":2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questions":[
+        {
+          "question": "Qual é melhor empresa de histórias em quadrinhos?",
+          "answers": ["DC Comics", "Marvel"],
+          "correctAnswerIndex":1
+        },
+        {
+          "question": "Qual é a fruta mais gostosa?",
+          "answers": ["Banana", "Pera", "Uva", "Maçã"],
+          "correctAnswerIndex":3
+        },
+        {
+          "question": "Qual é a melhor bebida?",
+          "answers": ["Cafê", "Cerveja", "Mupy", "Suco"],
+          "correctAnswerIndex":2
+        }
+      ]
+    }
+  ]
+}
